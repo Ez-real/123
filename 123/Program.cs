@@ -10,6 +10,7 @@ namespace _123
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
